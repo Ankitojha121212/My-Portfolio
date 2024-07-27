@@ -7,7 +7,7 @@ function Header() {
       <nav className='flex justify-evenly bg-slate-700 p-5 gap-36'>
         <div className=''>
           <span>Anki</span>
-          <span className='text-green-400 text-xl'>T</span>
+          <span className='text-green-500 text-xl'>T</span>
         </div>
 
         <div className='flex gap-10 ' >
